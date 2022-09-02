@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/juhiesayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="juhiesayyed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juhie sayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juhie sayyed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juhie-sayyed-5a326222b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juhie sayyed" height="30" width="40" /></a>
 <a href="https://codesandbox.com/juhiesayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="juhiesayyed" height="30" width="40" /></a>
 <a href="https://instagram.com/juhiesayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juhiesayyed" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/juhiesayyed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="juhiesayyed" height="30" width="40" /></a>
