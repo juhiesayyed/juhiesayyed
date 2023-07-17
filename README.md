@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **improving my Problem Solving Skills**
 
-- 🌱 I’m currently learning **Mobile Application Programming**
+- 🌱 I’m currently learning **Web Scraping**
 
-- 💬 Ask me about **java, python and react**
+- 💬 Ask me about **Java, Python and React**
 
-- 📫 How to reach me **sayyedjuhie@gmail.com**
+- 📫 How to reach me **juhiesayyed44@gmail.com**
 
 - ⚡ Fun fact **Sportsperson**
 
